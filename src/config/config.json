@@ -1,0 +1,8 @@
+{
+  "theme": {
+    "primaryColor": "#2563eb",
+    "logo": "/images/logo.png"
+  },
+  "productsPerPage": 12,
+  "currency": "USD"
+}
